@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="478dp"
+            android:layout_height="378dp"
+
+            android:layout_centerVertical="true"
+            android:src="@drawable/board" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/rook"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="315dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/rook"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="75dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/knight"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="273dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/knight"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="115dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/bishop"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="235dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/bishop"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="195dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/king"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="155dp"
+            android:layout_marginTop="403dp"
+            android:src="@drawable/queen"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="154dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="114dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="74dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="34dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="194dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="234dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="274dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="314dp"
+            android:layout_marginTop="365dp"
+            android:src="@drawable/pawn"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="31dp" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
